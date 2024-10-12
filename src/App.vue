@@ -1,5 +1,5 @@
 
 
 <template>
-    <h1>Vue Jobs</h1>
+    <h1 class="text-2xl">Vue Jobs</h1>
 </template>
